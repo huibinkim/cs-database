@@ -1,6 +1,6 @@
 # Database(DB)
 1. 데이터베이스를 왜 배워야 하는가? 
-  - 회사에서 가장 중요하게 생각하는게 뭘까?
+  - 회사에서 가장 중요하게 생각하는게 뭘까? 데이터베이스
   - 유튜브 소스코드를 얻었다 쳐보자
 2. SQL(Structured Query Language)
   - ANSI SQL
